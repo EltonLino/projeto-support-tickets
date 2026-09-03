@@ -1,0 +1,12 @@
+{
+  "name": "projeto-support-tickets",
+  "version": "1.0.0",
+  "description": "API para gerenciamento de tickets de support",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Elton Lino",
+  "license": "ISC",
+  "type": "module"
+}
